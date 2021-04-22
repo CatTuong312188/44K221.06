@@ -1,0 +1,249 @@
+{
+    "for_user": {
+        "06vQnx0vwXVn5kQgpEoRMU3Kkiy1": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        },
+        "BWwo3uCZhMgFxk7gRkDxAR2YjiF2": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        },
+        "Jd1TEBkynrTGbP6Gn7SEGHkzFLy1": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        },
+        "NQu1qZ7xfkNO91oPZUPJ5Qgfd632": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        },
+        "omr9PvHiA0WlF911L3kOGr0G3Lb2": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        },
+        "uVZBspZHfcdp9wdQ53yDshYMnMG3": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        },
+        "zkBEyRwkVigsXSNxGHc1L2A07OB3": {
+            "product_id": ["1", "2", "4", "5", "6"]
+        }
+    },
+    "products": [
+        {
+            "product_describe": "Double-squeezed green tea and green tea seed from the Jeju island",
+            "product_id": 1,
+            "product_image": "https://live.staticflickr.com/65535/51099227925_92c80410a4_w.jpg",
+            "product_name": "Green Tea Seed Serum",
+            "product_price": 150000,
+            "product_rate": "5",
+            "product_reviews": {
+                "08fbc076-6da7-491a-a89f-5dca2c751462": {
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "name": "Sonha",
+                    "rate": "5"
+                }
+            },
+            "product_sale": "0"
+        },
+        {
+            "product_describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+            "product_id": 2,
+            "product_image": "https://live.staticflickr.com/65535/51098418646_1f460dc5f1_w.jpg",
+            "product_name": "Ifressssss",
+            "product_price": 150000,
+            "product_reviews": {
+                "dfcadsfqwe": {
+                    "comment": "asdasfas",
+                    "name": "sonha"
+                },
+                "qweqweqwe": {
+                    "comment": "asd",
+                    "name": "wqeoiu"
+                }
+            },
+            "product_sale": "0"
+        },
+        {
+            "product_describe": "For oil skin with Campuchia’s coconut",
+            "product_id": 3,
+            "product_image": "https://live.staticflickr.com/65535/51098963403_bd35a18ee9.jpg",
+            "product_name": "Ifress",
+            "product_price": 150000,
+            "product_reviews": {
+                "asdsad": {
+                    "comment": "asdsadas",
+                    "name": "asdasda"
+                }
+            },
+            "product_sale": "0"
+        },
+        {
+            "product_describe": "For oil skin with Campuchia’s coconut",
+            "product_id": 4,
+            "product_image": "https://live.staticflickr.com/65535/51098500809_d689a3211b.jpg",
+            "product_name": "Ifress",
+            "product_price": 150000,
+            "product_reviews": {
+                "asdasdqwe": {
+                    "comment": "asd21qw",
+                    "name": "qwe"
+                }
+            },
+            "product_sale": "0"
+        },
+        {
+            "product_describe": "For oil skin with Campuchia’s coconut",
+            "product_id": 5,
+            "product_image": "https://live.staticflickr.com/65535/51098418716_17c2ed9a16.jpg",
+            "product_name": "Ifress",
+            "product_price": 150000,
+            "product_reviews": {
+                "qwewqe": {
+                    "comment": "asdasqwe",
+                    "name": "65q4we1"
+                }
+            },
+            "product_sale": "0"
+        },
+        {
+            "product_describe": "For oil skin with Campuchia’s coconut",
+            "product_id": 6,
+            "product_image": "https://live.staticflickr.com/65535/51098418781_f6cd132487.jpg",
+            "product_name": "Ifress",
+            "product_price": 150000,
+            "product_reviews": {
+                "asdqwe": {
+                    "comment": "asdiqhwd",
+                    "name": "asdqwrasd"
+                }
+            },
+            "product_sale": "0"
+        }
+    ],
+    "sales": {
+        "images": "https://static.vecteezy.com/system/resources/previews/000/688/908/original/flash-sale-banner-template-with-shopping-bags-vector.jpg",
+        "products_sale": [
+            {
+                "product_describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                "product_id": 2,
+                "product_image": "https://live.staticflickr.com/65535/51098418646_1f460dc5f1_w.jpg",
+                "product_name": "Ifressssss",
+                "product_price": 150000,
+                "percent": "15",
+                "product_reviews": {
+                    "dfcadsfqwe": {
+                        "comment": "asdasfas",
+                        "name": "sonha"
+                    },
+                    "qweqweqwe": {
+                        "comment": "asd",
+                        "name": "wqeoiu"
+                    }
+                },
+                "product_sale": "0"
+            },
+            {
+                "product_describe": "For oil skin with Campuchia’s coconut",
+                "product_id": 3,
+                "product_image": "https://live.staticflickr.com/65535/51098963403_bd35a18ee9.jpg",
+                "product_name": "Ifress",
+                "product_price": 150000,
+                "percent": "15",
+                "product_reviews": {
+                    "asdsad": {
+                        "comment": "asdsadas",
+                        "name": "asdasda"
+                    }
+                },
+                "product_sale": "0"
+            },
+            {
+                "product_describe": "For oil skin with Campuchia’s coconut",
+                "product_id": 4,
+                "product_image": "https://live.staticflickr.com/65535/51098500809_d689a3211b.jpg",
+                "product_name": "Ifress",
+                "product_price": 150000,
+                "percent": "15",
+                "product_reviews": {
+                    "asdasdqwe": {
+                        "comment": "asd21qw",
+                        "name": "qwe"
+                    }
+                },
+                "product_sale": "0"
+            },
+            {
+                "product_describe": "For oil skin with Campuchia’s coconut",
+                "product_id": 5,
+                "product_image": "https://live.staticflickr.com/65535/51098418716_17c2ed9a16.jpg",
+                "product_name": "Ifress",
+                "product_price": 150000,
+                "percent": "15",
+                "product_reviews": {
+                    "qwewqe": {
+                        "comment": "asdasqwe",
+                        "name": "65q4we1"
+                    }
+                },
+                "product_sale": "0"
+            },
+            {
+                "product_describe": "Double-squeezed green tea and green tea seed from the Jeju island",
+                "product_id": 1,
+                "product_image": "https://live.staticflickr.com/65535/51099227925_92c80410a4_w.jpg",
+                "product_name": "Green Tea Seed Serum",
+                "product_price": 150000,
+                "product_rate": "5",
+                "percent": "15",
+                "product_reviews": {
+                    "08fbc076-6da7-491a-a89f-5dca2c751462": {
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "name": "Sonha",
+                        "rate": "5"
+                    }
+                },
+                "product_sale": "0"
+            },
+            {
+                "product_describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                "product_id": 2,
+                "percent": "15",
+                "product_image": "https://live.staticflickr.com/65535/51098418646_1f460dc5f1_w.jpg",
+                "product_name": "Ifressssss",
+                "product_price": 150000,
+                "product_reviews": {
+                    "dfcadsfqwe": {
+                        "comment": "asdasfas",
+                        "name": "sonha"
+                    },
+                    "qweqweqwe": {
+                        "comment": "asd",
+                        "name": "wqeoiu"
+                    }
+                },
+                "product_sale": "0"
+            }
+        ]
+    },
+    "users": {
+        "uU82wSb9FWQjMhZ28RaPmq0nM9h2": {
+            "user_email": "Sonha@gmail.com",
+            "user_id": "uU82wSb9FWQjMhZ28RaPmq0nM9h2",
+            "user_name": "SonHa",
+            "user_password": "123456",
+            "user_phonenumber": "",
+            "user_skin": {
+                "routines": ["Mole", "Bac", "Abc"],
+                "skin_goals": ["Skingoal fat", "Bca"],
+                "skin_status": ["Black hole", "Oil Skin", "Mole"]
+            }
+        },
+        "uVZBspZHfcdp9wdQ53yDshYMnMG3": {
+            "message": "12asdaasdasdasdasasasdsd3",
+            "user_email": "Ha@gmail.com",
+            "user_id": "uVZBspZHfcdp9wdQ53yDshYMnMG3",
+            "user_name": "Sonnha",
+            "user_password": "123456",
+            "user_phonenumber": "",
+            "user_skin": {
+                "routines": ["Micellar Water", "Toner", "Serum"],
+                "skin_goals": ["Less Acnes", "Light Skin", "Tone Lift"],
+                "skin_status": ["Normal Skin", "Dry Skin"]
+            }
+        }
+    }
+}
